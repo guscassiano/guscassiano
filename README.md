@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao perfil do Gustavo Cassiano 😁
 
  <div>
    <a href="https://github.com/guscassiano">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guscassiano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guscassiano&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guscassiano&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guscassiano&layout=compact&langs_count=6&theme=onedark"/>
 
 </div>
 <div style="display: inline_block"><br>
