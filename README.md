@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/guscassiano">
-   <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=guscassiano&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/>
-   <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guscassiano&layout=compact&langs_count=10&theme=onedark"/>
+   <!-- <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api?username=guscassiano&show_icons=true&theme=onedark&include_all_commits=false&count_private=true"/> -->
+   <!-- <img width="45%" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guscassiano&layout=compact&langs_count=10&theme=onedark"/> -->
 </div>
  
 <div style="display: inline_block"><br>
@@ -31,11 +31,6 @@
   <img align="center" alt="Grunt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Grunt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="center" alt="Grunt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-          
-          
-          
-
- 
 </div>
  
  <br>
