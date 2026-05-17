@@ -9,7 +9,7 @@ Atualmente atuo como **Líder de Suporte Técnico e Desenvolvedor Python** na At
 - 📐 Defensor de boas práticas como **SOLID, Design Patterns e Clean Code**.
 
 ### 📈 Áreas que estou evoluindo
-[cite_start]Conforme meu plano de desenvolvimento contínuo, estou aprofundando meus conhecimentos em[cite: 42]:
+Conforme meu plano de desenvolvimento contínuo, estou aprofundando meus conhecimentos em:
 1. **Inteligência Artificial Aplicada:** Arquiteturas avançadas de Agentes e LLMs.
 2. **Engenharia de Dados:** Otimização de pipelines e processamento massivo de informações.
 3. **Segurança de APIs:** Práticas avançadas de proteção e autenticação.
