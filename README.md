@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Cassiano! 👋
+# Olá, eu sou o Gustavo Cassiano! <a href="https://github.com/avelino"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></a>
 
 Atualmente atuo como **Líder de Suporte Técnico e Desenvolvedor Python** na Ativa Soluções. Sou apaixonado por resolver problemas complexos através de código limpo, automação e inteligência artificial.
 
